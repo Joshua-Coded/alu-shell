@@ -1,0 +1,2 @@
+#!/bin/bash
+per -lne 'print if $ . % 2 = 1'
